@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
+  - name: Bienvenid@s!
     url: tour
     weight: 10
-  - name: News
+  - name: Vinculación
     url: post
     weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
+  - name: Cursos
     url: event
+    weight: 30
+  - name: Investigador@s
+    url: people
     weight: 40
-  - name: Publications
+  - name: Publicaciones
     url: publication
     weight: 50
   - name: Contact
