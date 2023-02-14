@@ -3,10 +3,12 @@
 
 # Hugo
 /resources/
-public/
+/public/
 assets/jsconfig.json
 .Rproj.user
 .Rhistory
-.Rdata
+.RData
 .httr-oauth
 .DS_Store
+.hugo_build.lock
+Thumbs.db
