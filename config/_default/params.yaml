@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: 
+  theme_day: ocean
+  theme_night: ocean
   font: native
   font_size: L
 
@@ -40,10 +40,13 @@ header:
     highlight_active_link: false
 
 # Site footer
-
+icon:
+  pack:
+    ai:true
+  
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2023} Roberto Orellana. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

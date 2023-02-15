@@ -20,3 +20,6 @@ blogdown::stop_server()
 # (optativo) para chequear que configuraciones de gitignore y contenido se puede hacer lo siguiente:
 check_gitignore()
 check_content()
+
+ 
+  

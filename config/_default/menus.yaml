@@ -19,6 +19,6 @@ main:
   - name: Publicaciones
     url: publication
     weight: 50
-  - name: Contact
+  - name: Contacto
     url: contact
     weight: 60
