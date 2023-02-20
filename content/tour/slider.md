@@ -15,33 +15,33 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Bienvenid@s a LaBCEM
+      content: 
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Ven y aprende de Fisiología Microbiana☕️
+      content: 'Investigamos el comportamiento de aislados microbianos...'
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.7 
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: y Ecología
+      content: '...para así entender como éstos interactúan con el ambiente.'
       align: right
       background:
         position: center
         color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
+        brightness: 0.7
+        media: terreno.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: Contáctanos
         url: ../contact/
 ---

@@ -21,5 +21,6 @@ blogdown::stop_server()
 check_gitignore()
 check_content()
 
- 
+# Ojo las imagenes del widget slider estan en C:\Users\PC\Documents\GitHub\LaBCEM_website\assets\media
+# Ojo lo que está en el menus.yaml estan  en C:\Users\PC\Documents\GitHub\LaBCEM_website\content 
   
