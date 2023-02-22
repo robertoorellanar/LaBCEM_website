@@ -21,9 +21,9 @@ education:
  #   - course: Doctora en Ciencias con Mención en Química
  #     institution: Universidad de Chile
  #     year: 1997
-    - course: Licenciada en Ciencias c/m en Química
-      institution: Universidad de Chile
-      year: 1990
+    - course: Licenciada en Ciencias c/m en Biología
+      institution: Universidad de Valparaíso
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,5 +61,5 @@ user_groups:
   - Researchers
 ---
 
-Alejandra Arancibia es académica del Departamento de Ciencias y Geografía de la Facultad de Ciencias Naturales y Exactas de la Universidad de Playa Ancha. Sus intereses están relacionados al desarrollo y/o aplicación de técnicas físico químicas para el estudio de procesos biogeoquímicos llevados a cabo por microorganismos. Estas técnicas han sido utilizadas tanto en condiciones de laboratorio como in situ, y actualmente se utilizan para el monitoreo de procesos biotecnlógicos.   
+Maren Silva es Licenciada en Ciencias con Mención en Biología de la Universidad de Valparaíso. Sus intereses están relacionados al estudio de cinéticas de crecimiento y capacidades metabólicas de bacterias sulfato reductoras y como esta información nos puede ayudar a comprender el rol de la sulfato-reducción como un proceso de relevancia en diversos ambientes.
 

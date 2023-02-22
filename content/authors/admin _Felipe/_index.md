@@ -23,7 +23,7 @@ education:
  #     year: 1997
     - course: Ingeniero en Informática
       institution: INACAP
-      year: 2008
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,5 +61,5 @@ user_groups:
   - Researchers
 ---
 
-Alejandra Arancibia es académica del Departamento de Ciencias y Geografía de la Facultad de Ciencias Naturales y Exactas de la Universidad de Playa Ancha. Sus intereses están relacionados al desarrollo y/o aplicación de técnicas físico químicas para el estudio de procesos biogeoquímicos llevados a cabo por microorganismos. Estas técnicas han sido utilizadas tanto en condiciones de laboratorio como in situ, y actualmente se utilizan para el monitoreo de procesos biotecnlógicos.   
+Felipe Zevallos es Ingeniero Informático (INACAP) titulado el año 2012. Su principal motivación está vinculada a la generación de experimentos y aplicación de herramientas bioinformáticas para el análisis del potencial metabólico de diversos aislados microbianos, particularmente, bacterias sulfato-reductoras.
 
