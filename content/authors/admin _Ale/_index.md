@@ -35,7 +35,7 @@ social:
     link: 'mailto:alejandra.arancibia@upla.cl'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=qUMntLgAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=6v627jEAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/robertoorellanar
