@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Académicos
 ---
 
 Roberto Orellana es académico de la Facultad de Ciencias Naturales y Exactas de la Universidad de Playa Ancha y director del LaBCEM. Sus intereses están relacionados al entendimiento de la fisiología de los microorganismos y como un adecuado manejo de las comunidades microbianas y los factores que las afectan pueden permitir el desarrollo de estrategias orientadas a biorremediar pasivos ambientales, reciclar o recuperar nutrientes, proveer agua limpia y/o generar procesos productivos sustentables. 

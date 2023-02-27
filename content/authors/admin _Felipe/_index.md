@@ -30,18 +30,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:alejandra.arancibia@upla.cl'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=qUMntLgAAAAJ&hl=en
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:alejandra.arancibia@upla.cl'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=qUMntLgAAAAJ&hl=en
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/robertoorellanar
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Alejandra-Arancibia-5
+#  - icon: researchgate
+#    icon_pack: fab
+#    link: https://www.researchgate.net/profile/Alejandra-Arancibia-5
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Asistentes de investigación
 ---
 
 Felipe Zevallos es Ingeniero Informático (INACAP) titulado el año 2012. Su principal motivación está vinculada a la generación de experimentos y aplicación de herramientas bioinformáticas para el análisis del potencial metabólico de diversos aislados microbianos, particularmente, bacterias sulfato-reductoras.

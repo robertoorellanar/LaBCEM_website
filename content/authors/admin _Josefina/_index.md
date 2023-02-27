@@ -30,18 +30,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:alejandra.arancibia@upla.cl'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=qUMntLgAAAAJ&hl=en
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:alejandra.arancibia@upla.cl'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=qUMntLgAAAAJ&hl=en
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/robertoorellanar
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Alejandra-Arancibia-5
+#  - icon: researchgate
+#    icon_pack: fab
+#    link: https://www.researchgate.net/profile/Alejandra-Arancibia-5
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Estudiantes de postgrado
 ---
 
 Josefina es bioquímica de la Pontificia Universidad Católica de Chile. Su principal motivación esta vinculada al estudio de procesos biogeoquímicos en el ambiente, y como los microorganismos juegan un rol fundamental en éstos. El trabajo de Josefina se enfoca particularmente en las capacidades de microorganismos en biodegradar compuestos tóxicos y como estas capacidades pueden servir de base para procesos de biorremediación de pasivos ambientales. 

@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Académicos
 ---
 
 Alejandra Arancibia es académica del Departamento de Ciencias y Geografía de la Facultad de Ciencias Naturales y Exactas de la Universidad de Playa Ancha. Sus intereses están relacionados al desarrollo y/o aplicación de técnicas físico químicas para el estudio de procesos biogeoquímicos llevados a cabo por microorganismos. Estas técnicas han sido utilizadas tanto en condiciones de laboratorio como in situ, y actualmente se utilizan para el monitoreo de procesos biotecnlógicos.   
