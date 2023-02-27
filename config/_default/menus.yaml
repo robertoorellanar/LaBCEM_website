@@ -19,6 +19,9 @@ main:
   - name: Publicaciones
     url: publication
     weight: 50
+  - name: Material educativo
+    url: materials
+    weight: 60
   - name: Contacto
     url: contact
-    weight: 60
+    weight: 70

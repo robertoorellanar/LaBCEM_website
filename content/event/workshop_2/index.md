@@ -1,28 +1,30 @@
 ---
-title: Workshop Biología de Sistemas de Microorganismos Ambientales
+title: Curso Teórico-Práctico “Ecología Microbiana en la Era Omica”
 
-event: Biología de Sistemas de Microorganismos Ambientales
-# event_url: https://example.org
+event: Curso Teórico-Práctico “Ecología Microbiana en la Era Omica”
+event_url: https://somich.cl/curso-pre-congreso-isme-ecologia-microbiana-en-la-era-omica/
 
-location: Universidad Técnica Federico Santa María
+location: Universidad de Playa Ancha, Facultad de Cs Naturales y Exactas
 address:
-  street: Avenida España 1680
+  street: Subida Leopoldo Carvallo 270
   city: Valparaíso
   region: Valparaíso
 #  postcode: '94305'
   country: Chile
 
 # summary: An example event.
-abstract: El Workshop “Biología de Sistemas de Microorganismos Ambientales” se llevó a cabo los días 7, 8, 9 y 12 de noviembre del 2018 en Valparaíso y fue co-organizado por la Dr. Verónica Molina (UPLA, Proyecto FONDECYT Reg. N° 1171324), Dres. Beatriz Cámara y Michael Seeger (UTFSM, Proyecto Anillo GAMBIO) y Dr. Roberto Orellana (UPLA, Proyecto Redes PCI 170600). 
+abstract: El Curso Teórico-Práctico “Ecología Microbiana en la Era Omica” fue coorganizado con la Dr. Verónica Molina (Proyecto FONDECYT Reg. N° 1171324). El curso correspondió a una unidad de aprendizaje teórico/practico orientado a estudiantes de postgrado e investigadores postdoctorales y profesionales relacionados al área de Ecología Microbiana y Biotecnología, y tuvo como objetivo general robustecer las bases fundamentales de la ecología molecular para el estudio de comunidades microbianas en el ambiente. En particular, el curso exploró  la generación de criterios comunes para el entendimiento de cómo funcionan los microorganismos de manera individual como también como parte de las comunidades y cómo las funciones microbianas se adaptan a las funciones del ecosistema. En general, las herramientas utilizadas con mayor frecuencia en estudios de ecología microbiana incluyen caracterizaciones moleculares (secuenciación de ADN, ARN, lípidos y proteínas), mediciones fisiológicas (producción de CO2 y gases trazas, medidas de biomasa, recuentos de células) y bioinformáticas (análisis estadístico y modelado). Nuestro curso se enfocó en entender los alcances y limitaciones de algunas de estas herramientas con el objetivo de generar criterios comunes  y pensamiento crítico relativo a la selección de aproximaciones diferenciales para responder preguntas científicas, y aprender nuevas técnicas o construir nuevas herramientas cuando sea necesario. 
+
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-11-07T13:00:00Z'
-date_end: '2018-11-12T13:00:00Z'
+date: '2019-11-11T13:00:00Z'
+date_end: '2019-11-13T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2018-11-07T13:00:00Z'
+publishDate: '2019-11-15T13:00:00Z'
 
 authors: []
 tags: []
