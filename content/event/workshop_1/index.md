@@ -35,9 +35,9 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: https://drive.google.com/file/d/1_sdszNIVpK-qFe6aN2_MBsvGyZu0yyu7/view?usp=share_link
 url_slides: ''
-url_video: ''
+url_video: https://www.youtube.com/watch?v=kKnziiSFYbU
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
