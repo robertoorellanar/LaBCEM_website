@@ -1,30 +1,22 @@
 ---
-title: 'Economic Evaluation of Bioremediation of Hydrocarbon-contaminated Urban Soils in Chile.'
+title: 'Microbial and biogeochemical shifts in a highly anthropogenically impacted estuary (“El Sauce” Valparaíso).'
 authors:
+  - Francisco Pozo-Solar
+  - Marcela Cornejo-D´Ottone
   - admin
-  - Andres Cumsille
-  - Paula Piña-Gangas
-  - Claudia Rojas
-  - Alejandra Arancibia
-  - Salvador Donghi
-  - Cristian Stuardo
-  - Patricio Cabrera
-  - Gabriela Arancibia
-  - Franco Cárdenas
-  - Felipe Salazar
-  - Myriam González
-  - Patricio Santis
-  - Josefina Abarca-Hurtado
-  - María Mejías
-  - Michael Seeger 
+  - Carla Acuña
+  - Cecilia Rivera
+  - Polette Aguilar-Muñoz
+  - Céline Lavergne
+  - Verónica Molina
+
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2022-09-21T00:00:00Z'
-doi: 'https://doi.org/10.3390/su141911854'
+
+date: '2023-02-27T00:00:00Z'
+doi: 'https://doi.org/10.3390/w15061251'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-02-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,23 +25,25 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Sustainability, 14*(19)'
+publication: '*Water, 15*(6)'
 publication_short: ''
 
-abstract: Technical advances have converted bioremediation into a large-scale ecosystem service suitable for the treatment of polluted soils worldwide; however, its application in Chile is scarce. The main hurdles that must be addressed include the capacities of such approaches for the treatment of polluted soils, the lack of knowledge about key factors affecting bioremediation costs and the lack of a legal framework to regulate this activity. In this study, the economic performance of the bioremediation of chronically hydrocarbon-polluted urban soils based on bioaugmentation, biostimulation or the combination of both approaches projected to an industrial scale was evaluated. The cost of bioremediation ranged between USD 50.7 and USD 310.4 per m3 of contaminated soil. In addition, the items and activities that had the most significant impacts on the final bioremediation cost, such as compost for biostimulation and bacterial growth media for bioaugmentation-based approaches, were identified. The projected costs were compared against an extensive database of 130 soil bioremediation projects. The bioremediation treatment costs fell within the top 60% of the more expensive projects, highlighting the high effort involved in bioremediation of chronically contaminated soils. This framework can facilitate the decision making of entrepreneurs, consultants, researchers and governmental authorities when launching initiatives to develop a local bioremediation industry capable of cleaning up a high number of polluted sites in Chile.
+abstract: Coastal zones are ecosystems that are sensitive to climate change and anthropogenic pollution, resulting in a potential loss of biodiversity and ecosystem services through eutrophication and nutrient imbalances, among others. The coastal El Sauce catchment area, Central Chile, is under multiple anthropogenic pressures including wastewater treatment plant (WWTP) discharge, which its broad effect remains underexplored. In order to assess the impact of the WWTP on El Sauce stream, the benthic microbial communities and key functional groups variability (i.e., nitrifiers, methanogens and methanotrophs) were determined by 16S rDNA high-throughput sequencing and by functional genes quantification, respectively, during two contrasted seasons in three catchment areas (pre-, WWTP and post-discharge). The microbial communities’ structure profiles were associated with the water quality, nutrients, greenhouse gas (GHG) distribution, and the organic matter isotopic signatures in the sediments, for the first time, in this ecosystem. The results show that organic matter isotopic signatures using nitrogen and carbon (δ15N and δ13C) and the physicochemical conditions in El Sauce estuary changed from the pre- to WWTP discharge areas (i.e., a pH decrease of 0.5 units and an increase of 4–6 °C in the water temperature). The WWTP discharge area was characterized by a low nutrient concentration and significantly higher GHG distribution (>600 µM CO2, >30,000 nM CH4, and >3000 nM N2O). In addition, the benthic microbial community structure shifted spatially and seasonally, including specific phyla known as sewage bioindicators, such as Firmicutes (Clostridiales order) and Bacteroidetes. In addition, other taxa were enriched or only retrieved in the sediments of the WWTP influenced area, e.g., Tenericutes, Lentisphaerae, Synergistetes, and LCP-89. Methanogens were more enriched near the WWTP discharge compared to those in the pre-discharge site in both seasons, while methanotrophs and ammonia oxidizers were unfavored only during winter. Our results indicate that the WWTP discharge impacts the biogeochemical conditions in El Sauce catchment area modifying the benthic microbial communities, including a decrease in the key functional groups able to mitigate CH4 and regulate nutrients recycling in these aquatic ecosystems.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - biorremediación
-  - biotecnología
+  - gases con efecto invernadero 
+  - estuarios
+  - comunidades microbianas
+
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2071-1050/14/19/11854/pdf?version=1663726039
+url_pdf: https://www.mdpi.com/2073-4441/15/6/1251/pdf?version=1679562359
 url_code: ''
 url_dataset: ''
 url_poster: ''
