@@ -23,7 +23,7 @@ education:
       year: 2014
     - course: Ingeniero Agrónomo
       institution: Universidad de Chile
-      year: 2006
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
